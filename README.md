@@ -1,7 +1,13 @@
 <h1 align="left">Hi 👋, I'm Aditi Kiran Mahabole</h1>
 <h3 align="left">Dynamic Indian Developer: MERN | C++ | Python</h3>
+<hr>
+![git1](https://github.com/aditimahabole/aditimahabole.github.io/assets/78752342/5eb91e26-075b-4587-baf2-597bd6587798)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditimahabole&label=Profile%20views&color=0e75b6&style=flat" alt="aditimahabole" /> </p>
+
+<br>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditimahabole" alt="aditimahabole" /></a> </p>
 
