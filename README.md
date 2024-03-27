@@ -2,7 +2,7 @@
 
 
 <h2 align="left">Hello everyone, welcome to my GitHub! I'm Aditi Mahabole! 👋</h2>
-<h6 align="left">Dynamic Indian Developer: MERN | C++ | Python</h3>
+<p align="left">Dynamic Indian Female Developer: MERN | C++ | Python </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditimahabole&label=Profile%20views&color=0e75b6&style=flat" alt="aditimahabole" /> </p>
 <br>
