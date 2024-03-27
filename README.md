@@ -2,7 +2,8 @@
 <h3 align="left">Dynamic Indian Developer: MERN | C++ | Python</h3>
 <hr>
 
-![git1](https://github.com/aditimahabole/aditimahabole.github.io/assets/78752342/5eb91e26-075b-4587-baf2-597bd6587798)
+![linkedin](https://github.com/aditimahabole/aditimahabole.github.io/assets/78752342/f614abf9-d851-4060-8954-ce6e7ec775d0)
+
 
 <hr>
 
