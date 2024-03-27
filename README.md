@@ -1,10 +1,8 @@
-<h1 align="left">Hi 👋, I'm Aditi Kiran Mahabole</h1>
-<h3 align="left">Dynamic Indian Developer: MERN | C++ | Python</h3>
-<hr>
-
 ![linkedin](https://github.com/aditimahabole/aditimahabole.github.io/assets/78752342/f614abf9-d851-4060-8954-ce6e7ec775d0)
 
 
+<h1 align="left">Hi 👋, I'm Aditi Kiran Mahabole</h1>
+<h3 align="left">Dynamic Indian Developer: MERN | C++ | Python</h3>
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditimahabole&label=Profile%20views&color=0e75b6&style=flat" alt="aditimahabole" /> </p>
