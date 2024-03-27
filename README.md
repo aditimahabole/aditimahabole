@@ -6,17 +6,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditimahabole&label=Profile%20views&color=0e75b6&style=flat" alt="aditimahabole" /> </p>
 <br>
-- 🔭 I’m currently working on **Web Development and Software Development skills**
 
-- 🌱 I’m currently learning **Devops Concepts and System Design**
+🔭 I’m currently working on **Web Development and Software Development skills**
 
-- 💬 Ask me about **React , Node , C++ , Python , Django**
+🌱 I’m currently learning **Devops Concepts and System Design**
 
-- 📫 How to reach me **akmbole2002@gmail.com**
+💬 Ask me about **React , Node , C++ , Python , Django**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AuZIS1IkSpTvnY200BQdFObNa8EdUVMq/view?usp=sharing](https://drive.google.com/file/d/1AuZIS1IkSpTvnY200BQdFObNa8EdUVMq/view?usp=sharing)
+📫 How to reach me **akmbole2002@gmail.com**
 
-- ⚡ Remember **Just Chill and Code!**
+📄 Know about my experiences [https://drive.google.com/file/d/1AuZIS1IkSpTvnY200BQdFObNa8EdUVMq/view?usp=sharing](https://drive.google.com/file/d/1AuZIS1IkSpTvnY200BQdFObNa8EdUVMq/view?usp=sharing)
+
+⚡ Remember **Just Chill and Code!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
