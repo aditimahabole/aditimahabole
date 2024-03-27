@@ -9,9 +9,6 @@
 
 <br>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditimahabole" alt="aditimahabole" /></a> </p>
-
 - 🔭 I’m currently working on **Web Development and Software Development skills**
 
 - 🌱 I’m currently learning **Devops Concepts and System Design**
@@ -36,6 +33,8 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditimahabole&show_icons=true&locale=en&layout=compact" alt="aditimahabole" /></p>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditimahabole" alt="aditimahabole" /></a> </p>
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditimahabole&show_icons=true&locale=en" alt="aditimahabole" /></p>
