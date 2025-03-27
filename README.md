@@ -2,16 +2,16 @@
 
 
 <h1 align="center">Hello everyone, I'm Aditi Mahabole! 👋</h1>
-<p align="center">Dynamic Indian Female Developer: MERN | C++ | Python </p>
+<p align="center">Dynamic Indian Female Developer: Java Developer | Springboot | Microservices </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditimahabole&label=Profile%20views&color=0e75b6&style=flat" alt="aditimahabole" /> </p>
 <br>
 
-🔭 I’m currently working on **Web Development and Software Development skills**
+🔭 I’m currently working on **Java SPringboot and Software Development skills**
 
 🌱 I’m currently learning **Devops Concepts and System Design**
 
-💬 Ask me about **React , Node , C++ , Python , Django**
+💬 Ask me about **React , Node , C++ , Python , Django , Java**
 
 📫 How to reach me **akmbole2002@gmail.com**
 
